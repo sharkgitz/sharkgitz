@@ -2,13 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishak%20Rajeesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Builder%20%7C%20Data%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descColor=a0aec0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Data+Analyst+%7C+BI+Developer;Building+LLM+applications+%26+AI+agents;RAG+%7C+FastAPI+%7C+React+%7C+BigQuery;From+idea+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%7C+Data+Analyst+%7C+BI+Developer;AI+Governance+Specialist+%7C+LLM+Engineer;Building+LLM+applications+%26+AI+agents;RAG+%7C+FastAPI+%7C+React+%7C+BigQuery;From+idea+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishakrajeesh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://eboxai.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishakrajeesh@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sharkgitz&color=00d4ff&style=for-the-badge&label=Profile+Views)](https://github.com/sharkgitz)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🟢 Open to Opportunities — AI Engineer · Data Analyst · AI Governance · LLM Engineer
+**UAE-based · Remote-friendly · Available immediately**
 
 </div>
 
@@ -160,6 +170,18 @@ Computer Science graduate (B.Tech, VIT 2026) based in **Abu Dhabi, UAE** — bui
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sharkgitz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharkgitz/sharkgitz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharkgitz/sharkgitz/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/sharkgitz/sharkgitz/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
