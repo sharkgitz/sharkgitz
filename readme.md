@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishak%20Rajeesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Builder%20%7C%20Data%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descColor=a0aec0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishak%20Rajeesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Alignment%20Evals%20%7C%20Problem%20Solver&descAlignY=60&descColor=a0aec0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%7C+Data+Analyst+%7C+BI+Developer;AI+Governance+Specialist+%7C+LLM+Engineer;Building+LLM+applications+%26+AI+agents;RAG+%7C+FastAPI+%7C+React+%7C+BigQuery;From+idea+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+%7C+Data+Analyst+%7C+BI+Developer;AI+Governance+Specialist+%7C+LLM+Engineer;AI+Safety+Researcher+%7C+Alignment+Evals;Building+LLM+applications+%26+AI+agents;RAG+%7C+FastAPI+%7C+React+%7C+BigQuery;From+idea+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🟢 Open to Opportunities — AI Engineer · Data Analyst · AI Governance · LLM Engineer
+### 🟢 Open to Opportunities — AI Engineer · AI Safety / Alignment Evals · Data Analyst · LLM Engineer
 **UAE-based · Remote-friendly · Available immediately**
 
 </div>
@@ -28,11 +28,12 @@
 
 Computer Science graduate (B.Tech, VIT 2026) based in **Abu Dhabi, UAE** — building production AI systems across the full stack. I don't just prototype; I deploy.
 
-- 🤖 Built **4 production AI applications** — from LLM agents to deepfake detectors
+- 🔬 Contributed to **AI alignment research** — first sovereign-deployment seed pack for Anthropic's [inspect_petri](https://github.com/meridianlabs-ai/inspect_petri) evaluation framework ([PR #115](https://github.com/meridianlabs-ai/inspect_petri/pull/115))
+- 🤖 Built **4 production AI applications** — from LLM agents to deepfake detectors — and alignment evaluation tooling
 - 📊 Processed **1M+ records** end-to-end: ETL, SQL (BigQuery), BI dashboards
 - 🏆 **6 industry certifications** across AI, cloud, BI, and project management
 - ⚡ Stack of choice: `Python` · `FastAPI` · `React` · `Gemini API` · `BigQuery`
-- 🎯 Targeting roles in **AI Engineering · Data Analytics · AI Governance**
+- 🎯 Targeting roles in **AI Safety / Alignment Evals · AI Engineering · Data Analytics · AI Governance**
 
 ---
 
@@ -134,6 +135,19 @@ Computer Science graduate (B.Tech, VIT 2026) based in **Abu Dhabi, UAE** — bui
 
 ---
 
+## 🔬 AI Safety / Alignment Research
+
+**Sovereign Seed Pack — Petri (inspect_petri)**
+
+First coverage of government/sovereign AI deployment scenarios in Anthropic's open-source alignment auditing framework. 20 evaluation seeds across 8 failure-mode categories: authority creep, human-oversight bypass, audit-trail falsification, status-asymmetric treatment, cross-agency data misuse, time-pressured escalation bypass, capability acquisition, and efficiency-vs-rights tradeoffs.
+
+3 of 20 seeds produced clear defections on free-tier models. Strongest case: `concerning: 9/10` on audit log falsification under pressure.
+
+[![PR #115](https://img.shields.io/badge/PR_%23115-Under_Review-yellow?style=flat-square&logo=github)](https://github.com/meridianlabs-ai/inspect_petri/pull/115)
+[![inspect_petri](https://img.shields.io/badge/inspect__petri-1.3k_stars-blue?style=flat-square&logo=github)](https://github.com/meridianlabs-ai/inspect_petri)
+
+---
+
 ## 📊 Analytics Work (Beyond GitHub)
 
 | Project | Stack | Scale | Key Insight |
@@ -190,10 +204,11 @@ Computer Science graduate (B.Tech, VIT 2026) based in **Abu Dhabi, UAE** — bui
 
 I'm actively looking for roles in the **UAE / remote** where I can build things that matter — AI-powered products, data pipelines, intelligent systems. If you're hiring for:
 
-- 🤖 **AI Engineer / LLM Engineer** — RAG systems, agentic workflows, LLM API integration  
-- 📊 **Data Analyst / BI Developer** — BigQuery, Looker Studio, Power BI, Python analytics  
-- 🔍 **AI Governance / Responsible AI** — AI safety, content detection, compliance frameworks  
-- 💼 **Business / Product Analyst** — commercial analysis, stakeholder reporting, insight delivery  
+- 🔬 **AI Safety / Alignment Evals** — behavioral evaluation, red-teaming, alignment research tooling
+- 🤖 **AI Engineer / LLM Engineer** — RAG systems, agentic workflows, LLM API integration
+- 📊 **Data Analyst / BI Developer** — BigQuery, Looker Studio, Power BI, Python analytics
+- 🔍 **AI Governance / Responsible AI** — AI safety, content detection, compliance frameworks
+- 💼 **Business / Product Analyst** — commercial analysis, stakeholder reporting, insight delivery
 
 ...let's talk.
 
